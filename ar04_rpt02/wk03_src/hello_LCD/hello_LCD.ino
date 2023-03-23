@@ -1,5 +1,4 @@
-/*
-  LiquidCrystal Library - Hello World
+ LiquidCrystal Library - Hello World
 
  http://www.arduino.cc/en/Tutorial/LiquidCrystal
  */
